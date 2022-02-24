@@ -6,7 +6,14 @@
 
 
 
-You can Connect With Me
+## You can Connect With Me
+
+- [Linkedin](https://www.linkedin.com/in/kherakshay/)
+- [Facebook](https://www.facebook.com/profile.php?id=100076613231212)
+- [Instagram](https://www.instagram.com/akshay_kher243/)
+
+
+## You can Connect With My Organization
 
 - [Linkedin](https://www.linkedin.com/in/itcraftsolution/)
 - [Facebook](https://www.facebook.com/itcraftsolution/?ref=pages_you_manage)
