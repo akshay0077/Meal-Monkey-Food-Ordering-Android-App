@@ -5,19 +5,29 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:padding="8dp"
-    tools:context=".Fragments.SplashFragment">
+    tools:context="com.akshaykher.mealmonkey.Fragments.SplashFragment">
 
-    <ImageView
+<!--    <ImageView-->
+<!--        android:id="@+id/imageView"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="400dp"-->
+<!--        android:contentDescription="@string/app_name"-->
+<!--        android:src="@drawable/splashbike"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintHorizontal_bias="0.5"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent" />-->
+    <com.airbnb.lottie.LottieAnimationView
         android:id="@+id/imageView"
         android:layout_width="match_parent"
-        android:layout_height="400dp"
-        android:contentDescription="@string/app_name"
-        android:src="@drawable/splashbike"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_height="400dp"
+        app:lottie_rawRes="@raw/deliveryboy"
+        app:lottie_loop="true"
+        app:lottie_autoPlay="true" />
     <TextView
         android:id="@+id/textView"
         android:layout_width="match_parent"
@@ -41,6 +51,7 @@
         android:fontFamily="sans-serif-smallcaps"
         android:gravity="center"
         android:padding="8dp"
+        android:textStyle="bold"
         android:text="@string/order_food_to_get_delivery_in_the_fastest_time_in_your_town"
         android:textSize="18sp"
         app:layout_constraintEnd_toEndOf="parent"

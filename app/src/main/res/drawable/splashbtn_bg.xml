@@ -11,8 +11,8 @@
         />
 
     <gradient
-        android:centerColor="@color/logoorange"
-        android:endColor="@color/logoorange"
-        android:startColor="@color/logoorange"
+        android:centerColor="#38c172"
+        android:endColor="#38c172"
+        android:startColor="#38c172"
         />
 </shape>

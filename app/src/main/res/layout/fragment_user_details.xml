@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Fragments.UserDetailsFragment">
+    tools:context="com.akshaykher.mealmonkey.Fragments.UserDetailsFragment">
 
     <ImageView
         android:id="@+id/igBackDashboard"
@@ -22,7 +22,7 @@
     <ImageView
         android:id="@+id/imageView2"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="150dp"
         android:src="@drawable/logobg"
         android:contentDescription="@string/american_pasta"
         app:layout_constraintBottom_toTopOf="@+id/edOrderFullName"
