@@ -30,7 +30,7 @@ Meal Monkey Food Ordering Top Features:<br/>
 
 # Web Admin Panel ScreenShot
 
-<img src="https://github.com/akshay0077/Meal-Monkey-Food-Ordering-Android-App/blob/Test/1-login.png">
+<img src="https://github.com/akshay0077/Meal-Monkey-Food-Ordering-Android-App/blob/Test/1-login.png" height=200px >
 <br/>
 
 <img src="https://github.com/akshay0077/Meal-Monkey-Food-Ordering-Android-App/blob/Test/2-register.png">
