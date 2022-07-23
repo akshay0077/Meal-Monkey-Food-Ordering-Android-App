@@ -28,6 +28,25 @@ Meal Monkey Food Ordering Top Features:<br/>
 <br/><br/>
 
 
+# Web Admin Panel ScreenShot
+
+<img src="https://github.com/akshay0077/Meal-Monkey-Food-Ordering-Android-App/blob/Test/1-login.png">
+<br/>
+
+<img src="https://github.com/akshay0077/Meal-Monkey-Food-Ordering-Android-App/blob/Test/2-register.png">
+<br/>
+
+<img src="https://github.com/akshay0077/Meal-Monkey-Food-Ordering-Android-App/blob/Test/3-dashboard.png">
+<br/>
+
+<img src="https://github.com/akshay0077/Meal-Monkey-Food-Ordering-Android-App/blob/Test/4-addcategory.png">
+<br/>
+
+<img src="https://github.com/akshay0077/Meal-Monkey-Food-Ordering-Android-App/blob/Test/5-addmenu.png">
+<br/>
+
+<img src="https://github.com/akshay0077/Meal-Monkey-Food-Ordering-Android-App/blob/Test/6-alltable.png">
+<br/>
 
 ## You can Connect With Me
 
