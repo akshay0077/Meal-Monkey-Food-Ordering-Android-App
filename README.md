@@ -30,22 +30,28 @@ Meal Monkey Food Ordering Top Features:<br/>
 
 # Web Admin Panel ScreenShot
 
-<img src="https://github.com/akshay0077/Meal-Monkey-Food-Ordering-Android-App/blob/Test/1-login.png" height=200px >
+# Login Page
+<img src="https://github.com/akshay0077/Meal-Monkey-Food-Ordering-Android-App/blob/Test/1-login.png" height=250px >
 <br/>
 
-<img src="https://github.com/akshay0077/Meal-Monkey-Food-Ordering-Android-App/blob/Test/2-register.png">
+# Register (New User) Page
+<img src="https://github.com/akshay0077/Meal-Monkey-Food-Ordering-Android-App/blob/Test/2-register.png" height=250px>
 <br/>
 
-<img src="https://github.com/akshay0077/Meal-Monkey-Food-Ordering-Android-App/blob/Test/3-dashboard.png">
+# DashBoard
+<img src="https://github.com/akshay0077/Meal-Monkey-Food-Ordering-Android-App/blob/Test/3-dashboard.png" height=250px>
 <br/>
 
-<img src="https://github.com/akshay0077/Meal-Monkey-Food-Ordering-Android-App/blob/Test/4-addcategory.png">
+# New categoty add here
+<img src="https://github.com/akshay0077/Meal-Monkey-Food-Ordering-Android-App/blob/Test/4-addcategory.png" height=250px>
 <br/>
 
-<img src="https://github.com/akshay0077/Meal-Monkey-Food-Ordering-Android-App/blob/Test/5-addmenu.png">
+# Add menu here
+<img src="https://github.com/akshay0077/Meal-Monkey-Food-Ordering-Android-App/blob/Test/5-addmenu.png" height=250px>
 <br/>
 
-<img src="https://github.com/akshay0077/Meal-Monkey-Food-Ordering-Android-App/blob/Test/6-alltable.png">
+# All Data show in Table
+<img src="https://github.com/akshay0077/Meal-Monkey-Food-Ordering-Android-App/blob/Test/6-alltable.png" height=250px>
 <br/>
 
 ## You can Connect With Me
